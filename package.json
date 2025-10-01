@@ -1,5 +1,5 @@
 {
-  "name": "persian-date-picker",
+  "name": "@fzmk013/persian-date-picker",
   "version": "1.0.0",
   "type": "module",
   "description": "A customizable Persian (Jalali) date picker component for React",
@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/persian-date-picker"
+    "url": "https://github.com/fzmk013/persian-date-picker.git"
   },
   "peerDependencies": {
     "react": "^18.0.0 || ^19.0.0",

@@ -13,4 +13,4 @@ A customizable Persian (Jalali) date picker component for React with TypeScript 
 ## Installation
 
 ```bash
-npm install persian-date-picker
+npm install @fzmk013/persian-date-picker
